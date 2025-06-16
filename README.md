@@ -76,7 +76,7 @@ The Random Forest Classifier achieved an accuracy of **\~85%**, showing high pot
 ### 📌 Credits
 
 * Dataset Source: UCI Machine Learning Repository (via GitHub)
-* Code Reference: 
+* Code Reference: https://github.com/Ajitha-6/Heart-Disease-Prediction.git
 ---
 
 ### 🧠 Applications
